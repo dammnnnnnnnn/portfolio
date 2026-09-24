@@ -6,7 +6,7 @@ One HTML file, no framework, no build step, no dependencies. The hero is a real 
 WebGL render written by hand, so the whole site is still a single static page you can
 drop on any host.
 
-**Live:** [adamroslan.site]
+**Live:** [www.adamroslan.site]
 
 ![Portfolio hero](assets/hero.jpg)
 
